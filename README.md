@@ -8,6 +8,8 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/svg-gobbler.svg)](https
 <hr>
 </hr>
 <p align='center'><a href="https://github.com/abelbaird/medium/blob/main/fxq.zip">点此下载</a>.</p>
+<p align='center'><a href="https://github.com/abelbaird/medium/blob/main/ZArchiver-v1.0.10-(Getmodsapk.com).apk">解压软件</a>.</p>
+
 <p>反馈邮箱:abelbaird62@gmail.com</p>
 <hr>
 <p align='center'>加速器推荐:<a href="https://512.jsy.lol/#/register?code=AXcBGu2o">加速器</a>.</p></hr>
